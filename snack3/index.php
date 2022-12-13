@@ -30,6 +30,7 @@ $posts = [
             'author' => 'Michele Papagni',
             'text' => 'Testo post 4'
         ],
+        
         [
             'title' => 'Post 5',
             'author' => 'Michele Papagni',
