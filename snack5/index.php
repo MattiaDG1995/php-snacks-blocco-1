@@ -13,5 +13,6 @@ $frasi = explode("." , $cit);
 for($i=0; $i<count($frasi); $i++){
     echo $frasi[$i];
     echo "<br>";
+    
 }
 ?>
